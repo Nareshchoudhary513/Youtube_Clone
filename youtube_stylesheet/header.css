@@ -172,4 +172,5 @@ align-items: center;
 .myprofile {
   height: 30px;
   cursor: pointer;
+  border-radius: 20px;
 }
