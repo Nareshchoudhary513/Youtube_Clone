@@ -6,11 +6,17 @@
   
 }
 
-@media (max-width: 750px){
+@media (max-width: 580px){
+  .grid {
+    grid-template-columns: 1fr ;
+  }
+  
+}
+
+@media (min-width:580px) and (max-width: 750px){
   .grid {
     grid-template-columns: 1fr 1fr ;
   }
-  
 }
 
 

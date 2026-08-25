@@ -31,3 +31,18 @@
 .sidebar-link:hover {
   background-color: rgb(244, 241, 241);
 } 
+
+
+
+
+@media (max-width: 580px){
+  .sidebar {
+    left: -100px;
+  }
+
+  body {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  
+}
